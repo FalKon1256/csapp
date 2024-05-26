@@ -36,4 +36,4 @@ This course provides a programmer's view of how computer systems execute program
 
 ## Reference
 
-[csapp](https://csapp.cs.cmu.edu)
+• [CS:APP](https://csapp.cs.cmu.edu)
