@@ -1,4 +1,5 @@
-# CMU 15-213 - Introduction to Computer Systems
+# [CMU 15-213 - Introduction to Computer Systems](https://www.cs.cmu.edu/afs/cs/academic/class/15213-s24/www/index.html)
+
 ## Outline
 This course provides a programmer's view of how computer systems execute programs, store information, and communicate. The learning scope includes compilers, networks, operating systems, and computer architecture, where a deeper understanding of systems-level issues is required. 
 
@@ -16,11 +17,23 @@ This course provides a programmer's view of how computer systems execute program
 • Supporting concurrent computation
 
 ## Labs
-### Data Lab
-### Bomb Lab
-### Attack Lab
-### Arch Lab
-### Cache Lab
-### Tsh Lab
-### Malloc Lab
-### Proxy Lab
+### 01 Data Lab
+
+### 02 Bomb Lab
+
+### 03 Attack Lab
+
+### 04 Arch Lab
+
+### 05 Cache Lab
+
+### 06 Malloc Lab
+
+### 07 Shell Lab
+
+### 08 Proxy Lab
+
+
+## Reference
+
+[csapp](https://csapp.cs.cmu.edu)
