@@ -4,10 +4,15 @@ This course provides a programmer's view of how computer systems execute program
 
 ## Topics
 • Machine-level code and its generation by optimizing compilers
+
 • Performance evaluation and optimization
+
 • Computer arithmetic
+
 • Memory organization and management
+
 • Networking technology and protocols
+
 • Supporting concurrent computation
 
 ## Labs
